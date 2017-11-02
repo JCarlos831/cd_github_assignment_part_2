@@ -1,3 +1,4 @@
+#I have editied this file with a comment
 class Horse
     @color
     @number
